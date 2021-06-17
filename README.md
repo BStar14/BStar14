@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BStar14
 - 👀 I’m interested in Artificial Intelligence with Quantum Computing and Algorithms
-- 🌱 I’m currently participating in IBM Quantum Challenge 2021 (May.20 - May.26)
+- 🌱 I’m currently participating in Quantum Hackathon Korea 2021 (June.04 - July.02)
 - 💞️ I’m looking for whom can interact with me about Artificial General Intelligence
 - 📫 Please contact me at boseong14@gmail.com
 
