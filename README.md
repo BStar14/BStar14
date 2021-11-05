@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BStar14
-- 👀 I’m interested in Artificial Intelligence with Quantum Computing and Algorithms
-- 🌱 I’m currently participating in Quantum Hackathon Korea 2021 (June.04 - July.02)
-- 💞️ I’m looking for whom can interact with me about Artificial General Intelligence
+- 👀 I’m interested in Physics AI, Quantum Cognition and Quantum Foundations.
+- 🌱 I’m currently studying about Quantum Simulation of Quantum Walks in Fractal Networks
+- 💞️ I’m looking for whom can interact with me about Quantum Cognition
 - 📫 Please contact me at boseong14@gmail.com
 
 <!---
