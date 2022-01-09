@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BStar14
-- 👀 I’m interested in Physics AI, Quantum Cognition and Quantum Foundations.
-- 🌱 I’m currently studying about Quantum Simulation of Quantum Walks in Fractal Networks
-- 💞️ I’m looking for whom can interact with me about Quantum Cognition
+- 👀 I’m interested in Quantum information, Quantum simulation and Quantum field theory
+- 🌱 I’m currently studying about Quantum Simulation of Quantum Walks on Fractal Networks
+- 💞️ I’m looking for whom can interact with me about Quantumness in general problems
 - 📫 Please contact me at boseong14@gmail.com
 
 <!---
