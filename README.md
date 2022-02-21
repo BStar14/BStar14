@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BStar14
 - 👀 I’m interested in Quantum information, Quantum simulation and Quantum field theory
 - 🌱 I’m currently studying about Quantum Simulation of Quantum Walks on Fractal Networks
-- 💞️ I’m looking for whom can interact with me about Quantumness in general problems
+- 💞️ I’m looking for whom can interact with me about Quantumness in general problems from the perspective of Contextuality or Quantum complexity theory
 - 📫 Please contact me at boseong14@gmail.com
 
 <!---
