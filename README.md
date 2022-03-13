@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BStar14
+- 👋 Hi, I’m Boseong Kim @ Yonsei Univ.
 - 👀 I’m interested in Quantum information, Quantum simulation and Quantum field theory
-- 🌱 I’m currently studying about Quantum Simulation of Quantum Walks on Fractal Networks
-- 💞️ I’m looking for whom can interact with me about Quantumness in general problems from the perspective of Contextuality or Quantum complexity theory
+- 🌱 I’m currently studying about Quantum Walks on Fractal Networks, the Hidden Shift Problem, and Geometric Quantum Gates
+- 💞️ I’m looking for whom can interact with me about Quantumness in general problems from the perspective of Contextuality or Quantum Complexity Theory
 - 📫 Please contact me at boseong14@gmail.com
 
 <!---
