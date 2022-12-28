@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Boseong Kim @ Yonsei Univ.
-- 👀 I’m interested in Quantum information, Quantum simulation and Quantum field theory
-- 🌱 I’m currently studying about Quantum Walks on Fractal Networks, the Hidden Shift Problem, and Geometric Quantum Gates
-- 💞️ I’m looking for whom can interact with me about Quantumness in general problems from the perspective of Contextuality or Quantum Complexity Theory
+- 👋 Hi, I’m Boseong Kim @ UCL
+- 👀 I’m interested in quantum information theory on quantum advantage and quantum simulation of physical systems
+- 🌱 I’m currently studying about quantum contextuality, quantum walks on quantum computers, and pulse control of quantum gates
+- 💞️ I’m looking for whom can interact with me about quantum advantage in mathematical or physical problems
 - 📫 Please contact me at boseong14@gmail.com
 
 <!---
